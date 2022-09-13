@@ -3,11 +3,11 @@ Customize your Leaflet story map with linked Google Sheets template and scrollin
 Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overlays.
 
 <p align="center">
-  <img src="./leaflet-storymaps-demo.gif" title="Storymaps demo" width="100%" />
+  <img src="./leaflet-storymaps-demo.gif" title="Staff Kami" width="100%" />
 </p>
 
 ## Live links (replace with your own)
-- Leaflet Map https:https://poi-osm.github.io/staffprofile/
+- Leaflet Map https://poi-osm.github.io/staffprofile/
 - Google Sheets template https://docs.google.com/spreadsheets/d/16IXTs-OTEbPZ8HJyoVwiQaxGss9xUZ0B52AMEGIrpUU/edit#gid=0
 
 ## Create Your Own
